@@ -13,8 +13,10 @@
 
 功能强大，包括 SaaS 多租户、工作流、大屏报表、商城、支付、微信公众号、RBAC 动态权限、数据权限等功能。
 
-* 演示地址：<http://dashboard.yudao.iocoder.cn>
-* 开发文档：<https://doc.iocoder.cn/>
+* 演示地址【Vue3 + element-plus】：<http://dashboard-vue3.yudao.iocoder.cn>
+* 演示地址【Vue2 + element-ui】：<http://dashboard.yudao.iocoder.cn>
+* Boot 开发文档：<https://doc.iocoder.cn/>
+* Cloud 开发文档：<https://cloud.iocoder.cn/>
 * 视频教程：<https://doc.iocoder.cn/video/>
 
 ### 后端项目
